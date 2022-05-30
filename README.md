@@ -19,6 +19,7 @@
 [//]: # (How to initialize/run your application &#40;where applicable&#41;)
 
 [Code](./snakes_cafe.py)
+
 [//]: # (How to use your library &#40;where applicable&#41;)
 
 [//]: # (Tests)
