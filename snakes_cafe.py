@@ -45,7 +45,10 @@ menu = {
     'A Literal Garden': 0,
     'Ice Cream': 0,
     'Cake': 0,
-    'Pie': 0
+    'Pie': 0,
+    'Coffee': 0,
+    'Tea': 0,
+    'Unicorn Tears': 0
 }
 order = {}
 
